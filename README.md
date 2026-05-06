@@ -21,3 +21,6 @@ server/ -> Backend
 
 ## Author
 Abhinav Raj
+
+<img width="687" height="478" alt="image" src="https://github.com/user-attachments/assets/82302677-b7a3-4e42-a5f7-1ec138ef4c93" />
+
